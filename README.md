@@ -24,6 +24,6 @@ fbinstant-template folder containes all necessary files for Facebook Instant Gam
 ## Test on Egret
 * 5.2.22
 # Contact
-* https://xmanyou.com
-* 
+* my blog: https://xmanyou.com
+* tutorial: https://xmanyou.com/egret-template-for-fb-instant-games/
 
